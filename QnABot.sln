@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QnABot", "QnABot\QnABot.csproj", "{4AD865C9-F5CC-4EF3-B519-97BF3C24540B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AD865C9-F5CC-4EF3-B519-97BF3C24540B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD865C9-F5CC-4EF3-B519-97BF3C24540B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD865C9-F5CC-4EF3-B519-97BF3C24540B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD865C9-F5CC-4EF3-B519-97BF3C24540B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
